@@ -7,7 +7,9 @@
 </head>
 <body>
 <footer class="tepuke-footer">
-<!-- Te Pukenga footer  -->
+<!-- Te Pukenga footer 
+Demo -https://www.unitec.ac.nz/umisc/tepukenga/tepukenga.html
+-->
 <?php
 	// set up the subsidiary name and links
 	$Subsidiary = "Unitec New Zealand Limited (Unitec)";
