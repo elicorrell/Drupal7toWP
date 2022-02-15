@@ -201,6 +201,8 @@ li.tepukenga-lower  {
 	font-stretch: ultra-condensed;
 	font-weight: bold;
 	font-size:1.3rem;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size-adjust: 0.46;
 	*/
 	 display:inline-block;
 	 line-height:1;
