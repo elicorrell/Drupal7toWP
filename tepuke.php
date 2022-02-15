@@ -9,6 +9,7 @@
 <footer class="tepuke-footer">
 <!-- Te Pukenga footer 
 Demo -https://www.unitec.ac.nz/umisc/tepukenga/tepukenga.html
+download font awesome 4.7.0 at https://fontawesome.com/versions
 -->
 <?php
 	// set up the subsidiary name and links
